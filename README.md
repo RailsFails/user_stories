@@ -31,3 +31,9 @@ WHY: To let others know what you think of the images.
 7
 USER: I want send and receive messages.
 WHY: To privately connect with other users.
+
+//////////////////////////////////////////////STORY MAP//////////////////////////////////////////////////////
+These user stories do not seem to be the epic of the project, rather they belong to the first sprint.
+
+https://railsfails.storiesonboard.com/m/cis272-agile-class
+I just did this, let me know if you can see it
