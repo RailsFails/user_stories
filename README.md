@@ -46,9 +46,19 @@ Post client review
 
 2.a no changes
 
-3.a Story for each tool
-3.a Story for each tool
-3.a Story for each tool
-3.a Story for each tool
-3.a Story for each tool
-3.a Story for each tool
+3.a Story for each design tool
+3.b Story for each design tool
+3.c Story for each design tool
+3.d Story for each design tool
+3.e Story for each design tool
+3.f Story for each design tool
+
+4.a Friendslist
+4.b image sharing
+
+5a. image share other social networks
+
+6.a image rating
+6.b image comments
+
+7.a message delivery
