@@ -37,3 +37,18 @@ These user stories do not seem to be the epic of the project, rather they belong
 
 https://railsfails.storiesonboard.com/m/cis272-agile-class
 I just did this, let me know if you can see it
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Post client review
+
+1.a Display on Phone.
+1.b Display on tablet.
+1.c P.C and laptop
+
+2.a no changes
+
+3.a Story for each tool
+3.a Story for each tool
+3.a Story for each tool
+3.a Story for each tool
+3.a Story for each tool
+3.a Story for each tool
