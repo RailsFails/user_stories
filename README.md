@@ -34,10 +34,6 @@ I just did this, let me know if you can see it
 
 Post client review
 
-<style type="text/css">
-    ol ol { list-style-type: upper-alpha; }
-</style>
-
 <ol>
 <li>
  <ol>
