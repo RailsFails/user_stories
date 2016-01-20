@@ -67,7 +67,7 @@ Post client review
 
 <li>
  <ol>
-  <li>image rating<li>
+  <li>image rating</li>
   <li>image comments</li>
  </ol>
 </li>
