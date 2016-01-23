@@ -73,3 +73,8 @@ Post client review
 </li>
 <li>message delivery</li>
 </ol>
+
+
+__________________________________________________________________________________________
+Post meeting
+I have moved all stories to back log. We have stated that our sprint 1 will be 8 hours each. We talked with dave, and as a team we have 25 hours per week. This means each has 5, so we need to discuss if that stories can be made into smaller pieces and/or we must play another round or 3 of planning poker. Also we learned: example. If we each had a project that was 5 hours. And it took me 2 hours to complete, I would select a story from the backlog that i could do in as close to 3 hours as possible. If it took 2, thats great, but if it took 4 that would be ok as well. This would be the flex that dave was talking about. 
